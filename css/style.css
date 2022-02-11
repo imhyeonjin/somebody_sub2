@@ -345,6 +345,7 @@ body{
 	margin: 0 auto;
 	background: url(../images/sub_2/mid_banner_copon.png) no-repeat center;
 	cursor: pointer;
+	box-sizing: border-box;
 }
 #container_2{
 	width: 1320px;
@@ -427,6 +428,7 @@ body{
 	background: url(../images/sub_2/mobile_banner.png) no-repeat center;
 	background-size: 1320px 700px;
 	padding-left: 110px;
+	box-sizing: border-box;
 }
 .mobile_btn{
 	overflow: hidden;
